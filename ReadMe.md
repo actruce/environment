@@ -1,1 +1,1 @@
-wget https://github.com/actruce/environment/blob/main/setvim.sh
+curl -O "https://raw.githubusercontent.com/actruce/environment/main/setvim.sh"
