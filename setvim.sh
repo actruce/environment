@@ -1,3 +1,3 @@
 #!/bin/bash
 mkdir .vim
-curl -LO ~/.vimrc https://github.com/actruce/environment/blob/main/.vimrc
+curl https://raw.githubusercontent.com/actruce/environment/main/.vimrc
